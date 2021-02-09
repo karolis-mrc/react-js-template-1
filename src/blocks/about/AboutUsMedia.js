@@ -65,7 +65,7 @@ class AboutUsMedia extends Component {
                         <div className="embed-image img-blur">
                             <div className="img object-fit size-2">
                                 <div className="object-fit-cover">
-                                    <img src="assets/img/demo/06_img.jpg" alt="About us" />
+                                    <img src="assets/img/placeholder/915x591.jpg" alt="About us" />
                                 </div>
                             </div>
                         </div>

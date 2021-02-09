@@ -7,7 +7,7 @@ import LanguageSelector from '../../components/button/LanguageSelector';
 class FooterSecondary extends Component {
     constructor() {
         super();
-        this.state         = {
+        this.state = {
             lang: 'En'
         };
 

@@ -2,7 +2,7 @@ import React from 'react';
 
 const PageTitleUserInterface = () => {
     return (
-        <section id="page-title" className="block" style={ { backgroundImage: `url( ${ require( '../../assets/img/demo/01_img.jpg' ) } )` } }>
+        <section id="page-title" className="block" style={ { backgroundImage: `url( ${ require( '../../assets/img/placeholder/1920x433.jpg' ) } )` } }>
             <div className="wrapper h-100">
                 <div className="d-flex justify-content-between position-relative h-100">
                     <div className="align-self-center">
